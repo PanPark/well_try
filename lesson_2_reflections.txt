@@ -1,0 +1,2 @@
+When using git init, git will creat a repository and with no commit in it.
+If there are some file in this dir, after using git status, you can see those file been marked as untracked.
